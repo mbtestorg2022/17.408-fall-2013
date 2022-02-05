@@ -26,7 +26,36 @@ The first requirement is active participation in the seminar. A successful semin
 
 The second requirement is a research paper on the topic of your choice. For more information, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 50% |
-| Research paper | 50%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research paper
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
