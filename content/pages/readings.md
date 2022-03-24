@@ -164,7 +164,7 @@ Decision-making
 
 Lampton, David M., ed. _The Making of Chinese Foreign and Security Policy in the Era of Reform_. Stanford University Press, 2001. ISBN: 9780804740562. \[Preview with [Google Books](http://books.google.com/books?id=0mE0qsZLxFsC&pg=PAfrontcover)\]
 
-Swaine, Michael D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[China's Assertive Behavior, Part Three: The Role of the Military in Foreign Policy.](http://www.hoover.org/research/chinas-assertive-behavior-part-three-role-military-foreign-policy)" _China Leadership Monitor_ 36 (2012).
+Swaine, Michael D. "[China's Assertive Behavior, Part Three: The Role of the Military in Foreign Policy.](http://www.hoover.org/research/chinas-assertive-behavior-part-three-role-military-foreign-policy)" _China Leadership Monitor_ 36 (2012).
 
 
 {{< tdclose >}}
@@ -186,7 +186,7 @@ Whiting, Allen S. "[Assertive Nationalism in Chinese Foreign Policy](http://www.
 
 He, Yinan. "[Remembering and Forgetting the War: Elite Mythmaking, Mass Reaction, and Sino-Japanese Relations, 1950–2006](http://dx.doi.org/10.2979/HIS.2007.19.2.43)." _History & Memory_ 19, no. 2 (2007): 43–74.
 
-Gries, Peter Hays. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Tears of Rage: Chinese Nationalist Reactions to the Belgrade Embassy Bombing." (PDF - 3.5MB)](https://www.journals.uchicago.edu/doi/pdfplus/10.2307/3182306) _China Journal_ 46 (2001): 25–43.
+Gries, Peter Hays. "[Tears of Rage: Chinese Nationalist Reactions to the Belgrade Embassy Bombing." (PDF - 3.5MB)](https://www.journals.uchicago.edu/doi/pdfplus/10.2307/3182306) _China Journal_ 46 (2001): 25–43.
 
 Zhao, Dingxin. "Nationalism and Authoritarianism: Student-Government Conflicts during the 1999 Beijing Student Protests after the Belgrade Embassy Bombing." _Asian Perspective_ 27, no. 1 (2003): 5–34.
 
@@ -194,7 +194,7 @@ Zhao, Suisheng. "[China's Pragmatic Nationalism: Is It Manageable?](http://dx.do
 
 Downs, Erica Strecker, and Phillip C. Saunders. "[Legitimacy and the Limits of Nationalism: China and the Diaoyu Islands](http://www.jstor.org/stable/2539340)." _International Security_ 23, no. 3 (1998–1999): 114–146.
 
-Ross, Robert S. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[China's Naval Nationalism: Sources, Prospects, and the U.S. Response." (PDF)](http://cc.sjtu.edu.cn/G2S/eWebEditor/uploadfile/20120914184814311.pdf) _International Security_ 34, no. 2 (2009): 46–81.
+Ross, Robert S. "[China's Naval Nationalism: Sources, Prospects, and the U.S. Response." (PDF)](http://cc.sjtu.edu.cn/G2S/eWebEditor/uploadfile/20120914184814311.pdf) _International Security_ 34, no. 2 (2009): 46–81.
 
 Weiss, Jessica Chen. "[Authoritarian Signaling, Mass Audiences, and Nationalist Protest in China](http://dx.doi.org/10.1017/S0020818312000380)." _International Organization_ 67, no. 1 (2013): 1–35.
 
@@ -226,7 +226,7 @@ Kirshner, Johnathan. "The Consequences China's Economic Rise for Sino-U.S. Relat
 
 Zeng, Ka. "[Multilateral versus Bilateral and Regional Trade Liberalization: Explaining China's Pursuit of Free Trade Agreements (FTAs)](http://dx.doi.org/10.1080/10670564.2010.485400)." _Journal of Contemporary China_ 19, no. 66 (2010): 635–52.
 
-Drezner, Daniel W. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Bad Debts: Assessing China's Financial Influence in Great Power Politics." (PDF)](http://www.mitpressjournals.org/doi/pdf/10.1162/isec.2009.34.2.7) _International Security_ 34, no. 2 (2009): 7–45.
+Drezner, Daniel W. "[Bad Debts: Assessing China's Financial Influence in Great Power Politics." (PDF)](http://www.mitpressjournals.org/doi/pdf/10.1162/isec.2009.34.2.7) _International Security_ 34, no. 2 (2009): 7–45.
 
 Reilly, James. "[China's Unilateral Sanctions](http://dx.doi.org/10.1080/0163660X.2012.726428)." _Washington Quarterly_ 35, no. 4 (2012): 121–33.
 
@@ -312,11 +312,11 @@ Johnston, Alastair Iain. "[Is China a Status Quo Power?](http://www.jstor.org/st
 
 Friedberg, Aaron. "[The Future of U.S.-China Relations: Is Conflict Inevitable?](https://direct.mit.edu/isec/article/30/2/7/11842/The-Future-of-U-S-China-Relations-Is-Conflict)" _International Security_ 30, no. 2 (2005): 7–45.
 
-Mearsheimer, John J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[China's Unpeaceful Rise." (PDF)](http://mearsheimer.uchicago.edu/pdfs/A0051.pdf) _Current History_ 105, no. 690 (2006): 160–2.
+Mearsheimer, John J. "[China's Unpeaceful Rise." (PDF)](http://mearsheimer.uchicago.edu/pdfs/A0051.pdf) _Current History_ 105, no. 690 (2006): 160–2.
 
 Fravel, M. Taylor. "[International Relations Theory and China's Rise: Assessing China's Potential for Territorial Expansion](http://dx.doi.org/10.1111/j.1468-2486.2010.00958.x)." _International Studies Review_ 12, no. 4 (2010): 505–32.
 
-Beckley, Michael. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[China's Century? Why America's Edge Will Endure." (PDF)](https://www.belfercenter.org/publication/chinas-century-why-americas-edge-will-endure) _International Security_ 36, no. 3 (2011/12): 41–78.
+Beckley, Michael. "[China's Century? Why America's Edge Will Endure." (PDF)](https://www.belfercenter.org/publication/chinas-century-why-americas-edge-will-endure) _International Security_ 36, no. 3 (2011/12): 41–78.
 
 Johnston, Alastair Iain. "[How New and Assertive Is China's New Assertiveness?](http://dx.doi.org/10.1162/ISEC_a_00115)" _International Security_ 37, no. 4 (2013): 7–48.
 
